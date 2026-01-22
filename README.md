@@ -1,14 +1,16 @@
 # 👋 Olá, sou o Leonardo Edilson Teca
 
 📍 Luanda, Angola  
-🎓 Finalista do curso de Ciências da Computação — Instituto Metropolitano Politécnico de Angola (IMETRO)  
+🎓 Licenciado do Curso de Ciências da Computação — Instituto Metropolitano Politécnico de Angola (IMETRO)  
 📧 lteca0252@gmail.com | 📱 +244 922 245 563
 
 ---
 
 ## 💡 Sobre mim
 
-Sou estudante finalista de **Ciências da Computação**, com grande interesse em **programação**, **análise de dados** e **tecnologia aplicada à resolução de problemas reais**. Busco minha primeira oportunidade profissional para aplicar os conhecimentos adquiridos, colaborar em projetos desafiadores e crescer profissionalmente no ecossistema tecnológico.
+Sou profissional de Tecnologia da Informação com foco em Power Platform (Power Apps, Power Automate), SharePoint e integração de sistemas corporativos. Tenho experiência em projetar e implementar soluções de automação, sistemas internos e aplicativos de baixo código, com ênfase em eficiência e experiência do usuário.
+
+Estou em constante desenvolvimento nas áreas de Inteligência Artificial aplicada e soluções corporativas escaláveis, visando contribuir com projetos de transformação digital em ambientes empresariais e governamentais.
 
 ---
 
@@ -16,14 +18,14 @@ Sou estudante finalista de **Ciências da Computação**, com grande interesse e
 
 - **Programação:** Python, lógica de programação, automação
 - **Ciência de Dados:** análise exploratória, visualização de dados, preparação de datasets
-- **Ferramentas:** Excel Avançado, Git/GitHub
+- **Ferramentas:** Excel Avançado, Git/GitHub, Power BI, SQL
 ---
 
 ## 📚 Formação Académica
 
 **Licenciatura em Ciências da Computação**  
 Instituto Metropolitano Politécnico de Angola (IMETRO)  
-📅 2021 – 2025 (em curso)
+📅 2021 – 2025
 
 ## 🌐 Idiomas
 
