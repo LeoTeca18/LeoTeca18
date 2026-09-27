@@ -41,4 +41,4 @@ Instituto Metropolitano Politécnico de Angola (IMETRO)
 
 ---
 
-💡 *Aberto a oportunidades como estagiário ou júnior nas áreas de backend, análise de dados e suporte técnico em TI.*
+💡 *Sempre aberto a novas oportunidades.*
